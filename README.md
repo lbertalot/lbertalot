@@ -8,3 +8,8 @@ Trabajo con desarrollo agéntico y diseño guiado por especificaciones, y sigo c
 
 - [LinkedIn](https://www.linkedin.com/in/leandrobertalot)
 - [Torre](https://torre.ai/leandrobertalot)
+
+## MVPs públicos
+
+- [GRID_BOT](https://github.com/lbertalot/GRID_BOT): bot de grilla para spot en Binance. Paper trading por defecto.
+- [Asistente de seguimiento postcompra por WhatsApp](https://github.com/lbertalot/whatsapp-tracking-assistant): MVP para comercios de Tiendanube.
